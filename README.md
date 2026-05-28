@@ -17,3 +17,20 @@ Configurting details in "auto-py-to-exe":
 6. Click on "Convert .py to .exe" button.
 
 You will get the exe file on the output directory location.
+
+# Download Attachments from Yahoo
+
+This script will help you to download attachemnets from Yahoo mail.
+
+You just need following things to make it work:
+1. Yahoo App Password and email ID.
+2. Sender email ID or keyword from emails from which you want to download attachments
+
+Please configure those in script and run the script
+
+# Folder Cleanup Wizard
+
+It will help you to organise your files automatically into various folders.
+For eg, PDF files will go to PDFs folder, .exe files will go to executables and so on.
+
+You just have to provide the folder path and you can clean your directory by running the script.
