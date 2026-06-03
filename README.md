@@ -34,3 +34,12 @@ It will help you to organise your files automatically into various folders.
 For eg, PDF files will go to PDFs folder, .exe files will go to executables and so on.
 
 You just have to provide the folder path and you can clean your directory by running the script.
+
+# Image Processing script
+
+# **Requirements for the script:**
+- Python3
+- Install pillow library
+
+# *Use the following command to install pillow library using terminal:*
+`pip install pillow`
